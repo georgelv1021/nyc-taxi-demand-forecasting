@@ -1,6 +1,6 @@
 # nyc-taxi-demand-forecasting
 
-## Taxi Demand Prediction on hourly basis for different zones
+## Taxi Demand Prediction on hourly basis for different geographical zones
 
 ### Data Resource
 1. NYC TLC data center: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
