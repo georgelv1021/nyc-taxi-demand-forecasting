@@ -3,7 +3,7 @@
 ## Taxi Demand Prediction on hourly basis for different geographical zones
 
 ## Table of Contents  
-1. [Cluster & Environment Setup](#Cluster-Environment-Setup)  
+1. [Cluster & Environment Setup](#Cluster-&-Environment-Setup)  
 2. [Basic Data Resource and Utilization](#Basic-Data-Resource-and-Utilization)
    - [Data Resource](#Data-Resource)
    - [Data Split](#Data-Split)
