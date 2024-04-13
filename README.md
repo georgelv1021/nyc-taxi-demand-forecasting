@@ -2,6 +2,22 @@
 
 ## Taxi Demand Prediction on hourly basis for different geographical zones
 
+## Table of Contents  
+1. [Cluster & Environment Setup](#Cluster-Environment-Setup)  
+2. [Basic Data Resource and Utilization](#Basic-Data-Resource-and-Utilization)
+   - [Data Resource](#Data-Resource)
+   - [Data Split](#Data-Split)
+   - [Modeling](#Modeling)
+3. [Resource](#resource)
+
+---
+
+## Cluster & Environment Setup
+1. Microsoft Azure
+2. Node Type: Standard_DS3_V2 (14GB; 4Cores)
+   
+## Basic Data Resource and Utilization
+
 ### Data Resource
 1. NYC TLC data center: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. Parquet file
@@ -16,3 +32,5 @@
 1. Linear (Baseline)
 2. Random Forest
 3. XGBoost
+
+   
