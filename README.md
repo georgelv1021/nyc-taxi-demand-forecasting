@@ -16,6 +16,8 @@
 1. Microsoft Azure
 2. Node Type: Standard_DS3_V2 (14GB; 4Cores)
    
+---
+
 ## Basic Data Resource and Utilization
 
 ### Data Resource
