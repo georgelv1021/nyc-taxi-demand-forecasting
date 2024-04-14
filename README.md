@@ -10,7 +10,8 @@
    - [Modeling](#Modeling)
 3. [EDA](#eda)
 4. [Data Cleaning + Feature Engineering](#Data-Cleaning-+-Feature-Engineering)
-5. [Resource](#resource)
+5. [Modeling](#modeling)
+
 
 ---
 
