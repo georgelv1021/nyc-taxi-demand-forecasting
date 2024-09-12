@@ -60,5 +60,9 @@ Please run throught all three files in the 'Modeling' folder to get all three mo
 2. Random Forest
 3. XGBoost
 
+## Slides Link
+
+https://docs.google.com/presentation/d/1_r1yZTbB9Jm2L6hekmQrfntbJkZbM3fUl0AVHnWKr5Q/edit?usp=sharing
+
 
    
